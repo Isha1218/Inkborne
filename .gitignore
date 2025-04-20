@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+.venv/
+
+# Ignore model files
+*.model
+*.dylib
+
+# Ignore compiled Python
+__pycache__/
+*.py[cod]
+
+# Ignore checkpoints or other generated data
+*.ckpt
+*.pt
+*.h5
