@@ -137,7 +137,4 @@ def clean_response(response):
 
 
 if __name__ == "__main__":
-    login(token="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")
-    cred = credentials.Certificate(r"inkborneServiceAccountKey.json")
-    firebase_admin.initialize_app(cred)
     app.run(host='0.0.0.0', port=5000, debug=True)
