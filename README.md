@@ -10,6 +10,3 @@ Screenshots:
 ![IMG_4075](https://github.com/user-attachments/assets/5fad656a-ed59-4e5d-92c7-bd858c69b7f5)
 ![IMG_4074](https://github.com/user-attachments/assets/8e90a31b-c6b6-47b6-aca4-6beb36a7b589)
 
-<img width="617" alt="inkborne_logo" src="https://github.com/user-attachments/assets/6806bdb8-2c15-4114-9ee3-081beb7be3f2" />
-
-
